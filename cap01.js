@@ -22,6 +22,7 @@ console.log(null == undefined, null === undefined)
 console.log('Short-circuiting of logical operators')
 console.log(null || 'user')
 console.log('Rodrigo' || 'Souza')
+console.log(3 === 4)
 // 0, NaN and "" count as false, while all the other values count as true.
 console.log(0 || -1)
 console.log('' || '!?')
